@@ -13,3 +13,5 @@ Then I went and saw Gillian Welch, and all was right with the world.
 My cellphone camera is not in good health, thanks to taking a tumble in Central Park, so you'll have to take my word for it when I say that the middle blob here is GILLIAN WELCH!
 
 ![Fuzzy Gillian](/assets/gillian_welch.JPG)
+
+So blobby. Such talent. So banjo.
