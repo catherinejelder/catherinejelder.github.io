@@ -17,3 +17,6 @@ github_username:  catherinejelder
 
 # Build settings
 markdown: kramdown
+
+gems: 
+  - jemoji

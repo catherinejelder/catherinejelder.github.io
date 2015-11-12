@@ -10,8 +10,10 @@ I also decided that I don't want to focus on learning new languages, not for it'
 
 Then I went and saw Gillian Welch, and all was right with the world.  
 
-My cellphone camera is not in good health, thanks to taking a tumble in Central Park, so you'll have to take my word for it when I say that the middle blob here is GILLIAN WELCH!
+My cellphone camera is not in good health, thanks to taking a tumble in Central Park, so you'll have to take my word for it when I say that the middle blob here is GILLIAN WELCH! 
+:joy:  
 
 ![Fuzzy Gillian](/assets/gillian_welch.JPG)
 
 So blobby. Such talent. So banjo.
+
